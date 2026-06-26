@@ -5,6 +5,10 @@ nbproject/private/
 *.class
 *.jar
 
+# Local configuration with credentials
+hibernate.cfg.xml
+EmailUtil.java
+
 # OS files
 .DS_Store
 desktop.ini
